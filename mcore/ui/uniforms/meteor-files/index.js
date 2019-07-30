@@ -1,0 +1,7 @@
+export { default as FileUploadAbstract } from './FileUploadAbstract'
+export { default as FilesList } from './FilesList'
+export { default as FileMini } from './FileMini'
+export { default as FileCard } from './FileCard'
+export { default as FileAvatar } from './FileAvatar'
+export { default as FileTestimonials } from './FileTestimonials'
+export { default as FileUpload } from './FileUpload'
